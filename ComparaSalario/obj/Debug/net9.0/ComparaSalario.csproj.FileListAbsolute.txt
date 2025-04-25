@@ -1,0 +1,15 @@
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\bin\Debug\net9.0\ComparaSalario.exe
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\bin\Debug\net9.0\ComparaSalario.deps.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\bin\Debug\net9.0\ComparaSalario.runtimeconfig.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\bin\Debug\net9.0\ComparaSalario.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\bin\Debug\net9.0\ComparaSalario.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.AssemblyInfoInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.AssemblyInfo.cs
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.csproj.CoreCompileInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.sourcelink.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\refint\ComparaSalario.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ComparaSalario.genruntimeconfig.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\ComparaSalario\obj\Debug\net9.0\ref\ComparaSalario.dll

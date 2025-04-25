@@ -6,23 +6,23 @@ x = new Triangulo();
 y = new Triangulo();
 
 Console.WriteLine("Digite o valor do lado A do triângulo X: ");
-x.A = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+x.A = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Digite o valor do lado B do triângulo X: "); 
-x.B = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+x.B = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Digite o valor do lado C do triângulo X: ");
-x.C = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+x.C = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 
 Console.WriteLine("Digite o valor do lado A do triângulo Y: ");
-y.A = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+y.A = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Digite o valor do lado B do triângulo Y: ");
-y.B = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+y.B = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Digite o valor do lado C do triângulo Y: ");
-y.C = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+y.C = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 
-double p = (x.A + x.B + x.C) / 2.0;
-double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-double p2 = (y.A + y.B + y.C) / 2.0;
-double areaY = Math.Sqrt(p2 * (p2 - y.A) * (p2 - y.B) * (p2 - y.C));
+
+double areaX = x.Area();
+
+double areaY = y.Area();
 
 Console.WriteLine($"Área do triângulo X: {areaX.ToString("F4", CultureInfo.InvariantCulture)}");
 Console.WriteLine($"Área do triângulo Y: {areaY.ToString("F4", CultureInfo.InvariantCulture)}");

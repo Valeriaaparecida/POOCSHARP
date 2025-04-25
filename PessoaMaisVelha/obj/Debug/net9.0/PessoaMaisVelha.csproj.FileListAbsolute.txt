@@ -1,0 +1,15 @@
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\bin\Debug\net9.0\PessoaMaisVelha.exe
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\bin\Debug\net9.0\PessoaMaisVelha.deps.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\bin\Debug\net9.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\bin\Debug\net9.0\PessoaMaisVelha.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\bin\Debug\net9.0\PessoaMaisVelha.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.sourcelink.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\refint\PessoaMaisVelha.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\PessoaMaisVelha.genruntimeconfig.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\PessoaMaisVelha\obj\Debug\net9.0\ref\PessoaMaisVelha.dll

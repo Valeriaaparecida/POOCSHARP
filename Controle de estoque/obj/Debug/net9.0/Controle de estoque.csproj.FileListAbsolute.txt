@@ -1,0 +1,15 @@
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\bin\Debug\net9.0\Controle de estoque.exe
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\bin\Debug\net9.0\Controle de estoque.deps.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\bin\Debug\net9.0\Controle de estoque.runtimeconfig.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\bin\Debug\net9.0\Controle de estoque.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\bin\Debug\net9.0\Controle de estoque.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.AssemblyInfoInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.AssemblyInfo.cs
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.csproj.CoreCompileInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.sourcelink.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\refint\Controle de estoque.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\Controle de estoque.genruntimeconfig.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\Controle de estoque\obj\Debug\net9.0\ref\Controle de estoque.dll

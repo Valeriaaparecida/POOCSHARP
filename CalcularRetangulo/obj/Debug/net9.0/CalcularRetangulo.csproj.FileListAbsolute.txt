@@ -1,0 +1,15 @@
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\bin\Debug\net9.0\CalcularRetangulo.exe
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\bin\Debug\net9.0\CalcularRetangulo.deps.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\bin\Debug\net9.0\CalcularRetangulo.runtimeconfig.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\bin\Debug\net9.0\CalcularRetangulo.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\bin\Debug\net9.0\CalcularRetangulo.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.AssemblyInfoInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.AssemblyInfo.cs
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.sourcelink.json
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\refint\CalcularRetangulo.dll
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.pdb
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\CalcularRetangulo.genruntimeconfig.cache
+C:\Users\vaat\My Private Documents\Portifólio\POO\CalcularRetangulo\obj\Debug\net9.0\ref\CalcularRetangulo.dll
