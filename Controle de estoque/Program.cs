@@ -1,7 +1,10 @@
 ﻿using Controle_de_estoque;
 using System.Globalization;
 
+
+
 Produto p = new Produto();
+
 
 Console.Write("Entre com o nome do produto:");
 p.Nome = Console.ReadLine();

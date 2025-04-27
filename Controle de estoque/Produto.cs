@@ -7,8 +7,18 @@ namespace Controle_de_estoque
     public class Produto
     {
         public string? Nome;
-        public double Preco;
-        public int Quantidade;
+        public double Preco ;
+        public double Quantidade;
+        
+        /*public Produto(string nome, double preco, int quantidade)
+        {
+            _nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }*/
+
+
+
 
         public double CalcularValorTotal()
         {
@@ -19,7 +29,7 @@ namespace Controle_de_estoque
             Quantidade += quantidade;
         }
 
-       
+
         public void RemoverProduto(int quantidade)
         {
             if (Quantidade >= quantidade)
@@ -31,9 +41,9 @@ namespace Controle_de_estoque
                 Console.WriteLine("Estoque insuficiente.");
             }
         }
-         public override string ToString()
+        public override string ToString()
         {
-            return $"{Nome}, R$ {Preco.ToString("F2",CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total: R$ {CalcularValorTotal().ToString("F2",CultureInfo.InvariantCulture)}";
+            return $"{Nome}, R$ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total: R$ {CalcularValorTotal().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
